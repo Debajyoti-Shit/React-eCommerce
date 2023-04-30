@@ -5,7 +5,7 @@
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
        
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
        
     },
     {
@@ -169,11 +169,7 @@
         "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
         "price": 9.85,
         "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-        "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 130
-        }
+
+        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
     }
 ]
