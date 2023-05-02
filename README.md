@@ -1,4 +1,60 @@
- ``` // db: https://my-json-server.typicode.com/Debajyoti-Shit/dummy-ecommerce-api/products ```
+### live: https://debajyoti-shit.github.io/React-eCommerce/
+
+
+# How to Start the Project
+1. Clone the repository to your local machine
+2. Install dependencies with `npm install`
+3. Start the development server with `npm start`
+
+# Folder Structure:
+
+
+```     
+React-eCommerce
+        |
+        |------public
+        |         |--- favicon.ico
+        |         |--- index.html
+        |             
+        |------ src
+        |         |---Actions
+        |         |     |--- index.js
+        |         |
+        |         |---apiCall
+        |         |     |--- index.js
+        |         |
+        |         |---Components
+        |         |     |--- AddProduct.js
+        |         |     |--- BasicRating.js
+        |         |     |--- Cart.js
+        |         |     |--- Cartitems.js
+        |         |     |--- Nav.js
+        |         |     |--- ProductItem.js
+        |         |     |--- ProductItemList.js
+        |         |     |--- Sort.js
+        |         |
+        |         |---Notification
+        |         |     |--- notify.js
+        |         |
+        |         |---Ruducers
+        |         |     |--- index.js
+        |         |
+        |         |--- App.js
+        |         |--- index.css
+        |         |--- index.js
+        |
+        |------ .gitignore
+        |------ package.json
+        |------ package-lock.json
+        └------ README.md
+```
+
+## Authors
+
+- [Debajyoti Shit](https://github.com/Debajyoti-Shit/)
+
+
+``` // db: https://my-json-server.typicode.com/Debajyoti-Shit/dummy-ecommerce-api/products ```
 
 # Getting Started with Create React App
 
