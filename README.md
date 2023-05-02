@@ -1,4 +1,4 @@
- // db: https://my-json-server.typicode.com/Debajyoti-Shit/dummy-ecommerce-api/products
+ ``` // db: https://my-json-server.typicode.com/Debajyoti-Shit/dummy-ecommerce-api/products ```
 
 # Getting Started with Create React App
 
